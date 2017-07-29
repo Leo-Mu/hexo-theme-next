@@ -14,7 +14,7 @@ keywords: "Hexo, NexT"
 rss:
 
 # Specify the date when the site was setup
-#since: 2015
+since: 2016
 
 # icon between year and author @Footer
 authoricon: heart
@@ -53,6 +53,7 @@ menu:
   tags: /tags/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
+  https mode: https://leomu.gq
 
 # Enable/Disable menu icons.
 # Icon Mapping:
@@ -70,6 +71,7 @@ menu_icons:
   archives: archive
   sitemap: sitemap
   commonweal: heartbeat
+  https mode: lock
 
 
 # ---------------------------------------------------------------
@@ -89,8 +91,16 @@ scheme: Muse
 # Social Links
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
-#social:
+social:
   #LinkLabel: Link
+  GitHub: https://github.com/Leo-Mu
+  Google+: https://plus.google.com/+穆鸿翔
+  Facebook: https://www.facebook.com/mutou.leo.wood
+  Twitter: https://twitter.com/mutou_leo_wood
+  QQ空间: http://user.qzone.qq.com/929843004
+  百度贴吧: http://tieba.baidu.com/home/main?un=%C4%BE%CD%B7%BF%C6%D1%A7%B6%FE%B0%D9%CE%E5
+  微博: http://weibo.com/leoMHX
+  wikipedia: https://zh.wikipedia.org/wiki/User:%E7%A9%86%E9%B8%BF%E7%BF%94
 
 # Social Links Icons
 # Icon Mapping:
@@ -104,13 +114,21 @@ social_icons:
   GitHub: github
   Twitter: twitter
   Weibo: weibo
+  QQ空间: qq
+  Google+: google-plus
+  Facebook: facebook-official
+  wikipedia: wikipedia-w
 
 # Blog rolls
-#links_title: Links
+links_title: 友情链接
 #links_layout: block
 #links_layout: inline
-#links:
+links:
   #Title: http://example.com/
+  copper菌: https://www.copperion.com/
+  新创无际: https://infinideas.org/
+  山岚幽阳: http://www.snang.cc/
+  平衍之域: http://x-y.studio/
 
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.jpg
@@ -143,8 +161,8 @@ sidebar:
   #  - always  expand for all pages automatically
   #  - hide    expand only when click on the sidebar toggle icon.
   #  - remove  Totally remove sidebar including sidebar toggle.
-  display: post
-  #display: always
+  #display: post
+  display: always
   #display: hide
   #display: remove
 
@@ -157,7 +175,7 @@ sidebar:
 
   # Scroll percent label in b2t button
   scrollpercent: false
-  
+
   # Enable sidebar on narrow view
   onmobile: false
 
@@ -326,8 +344,8 @@ changyan:
 # Available value:
 #    button | slide
 # Warning: Baidu Share does not support https.
-#baidushare:
-##  type: button
+baidushare:
+  type: button
 
 # Share
 #jiathis:
@@ -339,7 +357,7 @@ changyan:
 
 # Google Webmaster tools verification setting
 # See: https://www.google.com/webmasters/
-#google_site_verification:
+google_site_verification: CnaJsBSifGs5-7UG4kZHf2thx8s1USLBaGzZCa_htOM
 
 # Google Analytics
 #google_analytics:
@@ -349,7 +367,7 @@ changyan:
 #yandex_site_verification:
 
 # CNZZ count
-#cnzz_siteid:
+cnzz_siteid: 1260246926
 
 # Application Insights
 # See https://azure.microsoft.com/en-us/services/application-insights/
@@ -427,10 +445,10 @@ busuanzi_count:
 
 
 # Tencent analytics ID
-# tencent_analytics:
+tencent_analytics: 58158000
 
 # Tencent MTA ID
-# tencent_mta:
+tencent_mta: 500496708
 
 
 # Enable baidu push so that the blog will push the url to baidu automatically which is very helpful for SEO
