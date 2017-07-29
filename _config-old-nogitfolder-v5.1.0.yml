@@ -65,8 +65,6 @@ menu_icons:
   https mode: lock
 
 
-
-
 # ---------------------------------------------------------------
 # Scheme Settings
 # ---------------------------------------------------------------
@@ -81,7 +79,6 @@ scheme: Muse
 # Sidebar Settings
 # ---------------------------------------------------------------
 
-
 # Social Links
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
@@ -95,7 +92,6 @@ social:
   百度贴吧: http://tieba.baidu.com/home/main?un=%C4%BE%CD%B7%BF%C6%D1%A7%B6%FE%B0%D9%CE%E5
   微博: http://weibo.com/leoMHX
   wikipedia: https://zh.wikipedia.org/wiki/User:%E7%A9%86%E9%B8%BF%E7%BF%94
-
 
 # Social Links Icons
 # Icon Mapping:
@@ -130,7 +126,6 @@ links:
 # in site  directory(source/uploads): /uploads/avatar.jpg
 #avatar:
 
-
 # Table Of Contents in the Sidebar
 toc:
   enable: true
@@ -144,7 +139,6 @@ toc:
 # Available: by | by-nc | by-nc-nd | by-nc-sa | by-nd | by-sa | zero
 #creative_commons: by-nc-sa
 #creative_commons:
-
 
 sidebar:
   # Sidebar Position, available value: left | right
