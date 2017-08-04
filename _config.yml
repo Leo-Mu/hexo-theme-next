@@ -237,7 +237,7 @@ post_wordcount:
 reward_comment: 您的支持将鼓励我！谢谢！
 wechatpay: /load/img/wechatpay-faster.png
 alipay: /load/img/alipay-faster.png
-bitcoin: /load/img/images/bitcoin.png
+bitcoin: /load/img/bitcoin.png
 
 # Declare license on posts
 post_copyright:
