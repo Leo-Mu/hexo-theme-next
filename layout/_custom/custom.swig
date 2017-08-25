@@ -29,8 +29,8 @@
 <ol id="playlist"></ol>
 </div>
 
-<script src="js/jquery.min.js"></script>
-<script src="js/jquery.marquee.min.js"></script>
+<script src="qplayer/js/jquery.min.js"></script>
+<script src="qplayer/js/jquery.marquee.min.js"></script>
 
 <script>
 	var	playlist = [];
@@ -40,7 +40,7 @@
   var isRotate = true;
   var autoplay = false;
 </script>
-<script src="js/player.js"></script>
+<script src="qplayer/js/player.js"></script>
 <script>
 
 function bgChange(){
