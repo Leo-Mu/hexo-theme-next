@@ -49,13 +49,11 @@ menu:
   home: /
   categories: /categories/
   #about: /about/
-<<<<<<< HEAD
   archives: /archives/
   tags: /tags/
   sitemap: /sitemap.xml
   commonweal: /404/
   https mode: https://leomu.gq
-=======
   #archives: /archives/
   #tags: /tags/
   #sitemap: /sitemap.xml
@@ -364,8 +362,8 @@ changyan:
   appid:
   appkey:
 
-    
-# Valine. 
+
+# Valine.
 # You can get your appid and appkey from https://leancloud.cn
 # more info please open https://github.com/xCss/Valine
 valine:
