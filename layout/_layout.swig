@@ -63,8 +63,6 @@
   {% include '_scripts/vendors.swig' %}
   {% include '_scripts/commons.swig' %}
 
-  {% include '_custom/custom.swig' %}
-
   {% set scheme_script = '_scripts/schemes/' + theme.scheme | lower + '.swig' %}
   {% include scheme_script %}
 
@@ -82,5 +80,7 @@
   {% include '_third-party/mathjax.swig' %}
   {% include '_third-party/scroll-cookie.swig' %}
   {% include '_third-party/exturl.swig' %}
+
+  {% include '_custom/custom.swig' %}
 </body>
 </html>

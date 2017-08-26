@@ -30,8 +30,7 @@
 <ol id="playlist"></ol>
 </div>
 
-<script src="/qplayer/js/jquery.min.js"></script>
-<script src="/qplayer/js/jquery.marquee.min.js"></script>
+<script src="//cdn.bootcss.com/jQuery.Marquee/1.3.94/jquery.marquee.min.js"></script>
 
 <script>
 	var	playlist = [];
