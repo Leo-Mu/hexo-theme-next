@@ -1,4 +1,5 @@
 {% if theme.audio.enable %}
+<link rel="stylesheet" href="/qplayer/css/player.css">
 <div id="QPlayer">
 <div id="pContent">
 	<div id="player">
