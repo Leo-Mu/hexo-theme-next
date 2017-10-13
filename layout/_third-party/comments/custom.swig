@@ -1,1 +1,1 @@
-{% include 'custom/custom.swig' %}
+{% include 'custom/gitalk.swig' %}
