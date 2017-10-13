@@ -414,6 +414,10 @@ google_site_verification: CnaJsBSifGs5-7UG4kZHf2thx8s1USLBaGzZCa_htOM
 # Google Analytics
 #google_analytics:
 
+# Bing Webmaster tools verification setting
+# See: https://www.bing.com/webmaster/
+#bing_site_verification:
+
 # Yandex Webmaster tools verification setting
 # See: https://webmaster.yandex.ru/
 #yandex_site_verification:
