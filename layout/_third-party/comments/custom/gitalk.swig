@@ -1,4 +1,4 @@
-<div id="gitalk-container"></div>
+<div id="gitalk-container" style="max-width: 85%"></div>
 
 <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
 <script type="text/javascript" src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
