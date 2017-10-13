@@ -1,5 +1,3 @@
-<div id="gitalk-container" style="max-width: 85%; margin: auto"></div>
-
 <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
 <script type="text/javascript" src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
 <script type="text/javascript">
@@ -11,5 +9,5 @@ var gitalk = new Gitalk({
   admin: ['Leo-Mu'],
 })
 
-gitalk.render('gitalk-container')
+gitalk.render('comments')
 </script>
