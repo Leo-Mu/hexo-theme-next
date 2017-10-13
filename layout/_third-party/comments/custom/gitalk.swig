@@ -1,3 +1,5 @@
+<div id="gitalk-container"></div>
+
 <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
 <script type="text/javascript" src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
 <script type="text/javascript">
