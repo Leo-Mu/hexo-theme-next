@@ -129,6 +129,7 @@ scheme: Muse
 #social:
   GitHub: https://github.com/Leo-Mu || github
   #E-Mail: mailto:yourname@gmail.com || envelope
+  steemit: https://steemit.com/@quantum-bug
   Google: https://plus.google.com/+穆鸿翔 || google
   Twitter: https://twitter.com/mutou_leo_wood || twitter
   FB Page: https://www.facebook.com/mutou.leo.wood || facebook
@@ -141,7 +142,6 @@ scheme: Muse
   百度贴吧: http://tieba.baidu.com/home/main?un=%C4%BE%CD%B7%BF%C6%D1%A7%B6%FE%B0%D9%CE%E5 || paw
   微博: http://weibo.com/leoMHX || weibo
   wikipedia: https://zh.wikipedia.org/wiki/User:%E7%A9%86%E9%B8%BF%E7%BF%94 || wikipedia-w
-  steemit: https://steemit.com/@quantum-bug
 
 social_icons:
   enable: true
