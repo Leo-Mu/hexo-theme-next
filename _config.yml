@@ -126,7 +126,7 @@ scheme: Muse
 # Key is the link label showing to end users.
 # Value before `||` delimeter is the target permalink.
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, globe icon will be loaded.
-#social:
+social:
   GitHub: https://github.com/Leo-Mu || github
   #E-Mail: mailto:yourname@gmail.com || envelope
   Steemit: https://steemit.com/@quantum-bug
