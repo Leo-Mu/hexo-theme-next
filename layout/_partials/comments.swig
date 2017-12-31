@@ -68,4 +68,7 @@
     </div>
   {% endif %}
 
+  <div class="comments" id="comments">
+  </div>
+
 {% endif %}
